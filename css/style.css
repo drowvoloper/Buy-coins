@@ -1,0 +1,34 @@
+/* Some starer styling. Feel free to change anything you like */
+
+body {
+    background-color: rgb(220,220,220);
+    font-size: 15px;
+    line-height: 1.4;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Oxygen-Sans, Ubuntu, Cantarell, sans-serif !important;
+    font-weight: 500
+  }
+
+table{
+    background: white;
+    margin-top: 70px;
+    width: 60% !important;
+    margin-left:auto; margin-right:auto;
+    border-collapse:collapse;
+    border-spacing:0;
+    display: table;
+    text-align: left;
+    border:1px solid #ccc;
+    border-radius: 10px;
+}  
+table thead{
+  font-weight: bold
+}
+table tbody tr:nth-child(odd) {
+  background-color: #f2f2f2;
+}   
+ 
+
+
+
+
+  
