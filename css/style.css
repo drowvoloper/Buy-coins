@@ -26,9 +26,22 @@ table thead{
 table tbody tr:nth-child(odd) {
   background-color: #f2f2f2;
 }   
- 
 
 
+/* added by @drowvoloper */
+.pagination {
+	margin-top: 1em;
+	text-align: center;
+}
+
+.pagination a {
+	margin: .2em;
+}
+
+.pagination a.current {
+	opacity: .5;
+	pointer-events: none;
+}
 
 
   
