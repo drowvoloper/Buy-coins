@@ -44,4 +44,6 @@ table tbody tr:nth-child(odd) {
 }
 
 
-  
+.prev {
+	display: none;
+}
